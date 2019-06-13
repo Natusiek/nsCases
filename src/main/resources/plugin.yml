@@ -1,0 +1,8 @@
+name: CasePlugin
+version: ${project.version}
+main: pl.natusiek.mc.CasePlugin
+authors: [Natusiek]
+description: Plugin na otwieranie skrzyn
+
+commands:
+  case:
